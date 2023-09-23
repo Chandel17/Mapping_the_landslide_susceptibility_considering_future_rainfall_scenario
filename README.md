@@ -1,0 +1,1 @@
+# Mapping_the_landslide_susceptibility_considering_future_rainfall_scenario
